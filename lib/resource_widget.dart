@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 
-// resource_widget.dart
-
 class ResourceWidget extends StatefulWidget {
   final String resourceName;
   final String resourceColor;

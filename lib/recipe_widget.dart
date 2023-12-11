@@ -1,5 +1,3 @@
-// recipe_widget.dart
-
 import 'package:flutter/material.dart';
 import 'package:pb_clicker/main.dart';
 
@@ -32,13 +30,11 @@ class RecipeWidget extends StatelessWidget {
 
   bool canProduce(Recipe recipe) {
     // Logique pour vérifier si les ressources sont suffisantes
-    // Retourne true si les ressources sont suffisantes, sinon false
-    // Tu devrais implémenter cette logique selon tes besoins
     return true;
   }
 
   void produceObject(Recipe recipe) {
     // Logique pour produire l'objet et l'ajouter à l'inventaire
-    // Tu devrais implémenter cette logique selon tes besoins
+    //TODO: Ajouter l'objet à l'inventaire
   }
 }

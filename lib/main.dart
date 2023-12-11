@@ -24,8 +24,8 @@ class HomePage extends StatelessWidget {
     {'name': 'Minerai de cuivre', 'color': '#FFd9480f'},
   ];
 
-  int ironIngotsProduced = 1001; // À adapter selon ta logique
-  int copperIngotsProduced = 1001; // À adapter selon ta logique
+  int ironIngotsProduced = 1001;
+  int copperIngotsProduced = 1001;
 
   @override
   Widget build(BuildContext context) {

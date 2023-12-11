@@ -1,5 +1,3 @@
-// recipes_page.dart
-
 import 'package:flutter/material.dart';
 import 'package:pb_clicker/main.dart';
 import 'package:pb_clicker/recipe_widget.dart';

@@ -1,5 +1,3 @@
-// inventory_page.dart
-
 import 'package:flutter/material.dart';
 import 'package:pb_clicker/main.dart';
 
@@ -8,7 +6,7 @@ class InventoryPage extends StatelessWidget {
     InventoryItem(name: 'Item A', quantity: 10),
     InventoryItem(name: 'Item B', quantity: 5),
     InventoryItem(name: 'Item C', quantity: 8),
-  ]; // Utilise maintenant le modèle InventoryItem
+  ];
 
   @override
   Widget build(BuildContext context) {
