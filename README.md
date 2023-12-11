@@ -5,7 +5,7 @@
 1. Clonez ce dépôt sur votre machine.
 
     ```bash
-    git clone https://github.com/votre-utilisateur/pb_clicker.git
+    git clone https://github.com/pierrebre/pb_clicker.git
     ```
 
 3. Accédez au répertoire du projet.
